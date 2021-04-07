@@ -1,4 +1,4 @@
-M     src/objects/Event.object
+M     src/objects/Event.object hello
 
 A     src/objects/Trading_Event__c.object
 
